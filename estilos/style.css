@@ -47,7 +47,7 @@ section img:hover{
 #tela{
     position: relative;
     height: 451px;
-    width: 246px;
+    width: 244px;
     top: 80px;
     left: 23px;
     
@@ -59,7 +59,7 @@ section img:hover{
     position: absolute;
     background-color: transparent;
     height: 607px;
-    width: 291px;
+    width: 290px;
     left: 50%;
     top: 50%;
 
